@@ -2,9 +2,9 @@ Husk at tilføje architecture decision record (ADR) til eksamenprojekt. Gerne fl
 
 Husk at tilføje C4 model til eksamensprojekt
 
-
+```
 kubectl config view --minify --flatten --raw > kubeconfig.yaml
-
+```
 ```
 on:
   push:
